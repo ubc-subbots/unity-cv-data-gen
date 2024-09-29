@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9d0176327854820ab53adc46cbec7c1, type: 3}
+  m_Name: SubbotsSemanticSegmentationConfig
+  m_EditorClassIdentifier: 
+  m_LabelEntries:
+  - label: Gate_Bootlegger
+    color: {r: 0, g: 0, b: 1, a: 1}
+  - label: Buoy_Bootlegger
+    color: {r: 0, g: 1, b: 0, a: 1}
+  - label: Buoy_GMan
+    color: {r: 1, g: 0, b: 0, a: 1}
+  - label: Gate_GMan
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - label: Shootout_GMan
+    color: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  - label: 'Shootout_Bootlegger '
+    color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  - label: Bins_Bootlegger
+    color: {r: 1, g: 0.3082633, b: 0.4488063, a: 1}
+  - label: Bins_GMan
+    color: {r: 0.9928696, g: 0.21189642, b: 1, a: 1}
+  - label: Gate
+    color: {r: 0.6769991, g: 1, b: 0.31181765, a: 1}
+  - label: Blue
+    color: {r: 0.5410872, g: 1, b: 0.17150688, a: 1}
+  - label: Buoy
+    color: {r: 1, g: 0.08635771, b: 0.64784235, a: 1}
+  - label: Map
+    color: {r: 0.08630711, g: 1, b: 0.54582256, a: 1}
+  - label: Red
+    color: {r: 1, g: 0.17693412, b: 0.43962893, a: 1}
+  - label: Red_Blue
+    color: {r: 0.09109253, g: 0.13024466, b: 1, a: 1}
+  - label: Marker
+    color: {r: 1, g: 0.9236532, b: 0.46595567, a: 1}
+  skyColor: {r: 0, g: 0, b: 0, a: 1}
